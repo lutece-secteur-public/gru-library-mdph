@@ -41,6 +41,7 @@
         <componentName>GRU Library MDPH</componentName>
         <jiraProjectName>GRUMDPH</jiraProjectName>
         <jiraComponentId>15556</jiraComponentId>
+	<sonar.sources>pom.xml,src/java</sonar.sources>
    </properties>
 	
     <scm>
